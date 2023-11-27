@@ -4,7 +4,7 @@
 
 - Alat dan teknologi yang saya gunakan:
   - HTML, CSS, JS, PHP, VB .NET
-  - MySQL, SQl Server
+  - MySQL, SQL Server
 
 ## 📫 Hubungi Saya
 
